@@ -1,0 +1,17 @@
+<?PHP
+$weather['blank']['image']='images/weather/blank.gif';
+$weather['blank']['text']='不指定';
+$weather['sunny']['image']='images/weather/sunny.gif';
+$weather['sunny']['text']='晴';
+$weather['overcast']['image']='images/weather/overcast.gif';
+$weather['overcast']['text']='阴';
+$weather['cloudy']['image']='images/weather/cloudy.gif';
+$weather['cloudy']['text']='多云';
+$weather['rainy']['image']='images/weather/rainy.gif';
+$weather['rainy']['text']='雨';
+$weather['thunder']['image']='images/weather/thunder.gif';
+$weather['thunder']['text']='雷阵雨';
+$weather['night']['image']='images/weather/night.gif';
+$weather['night']['text']='夜晚';
+$weather['snowy']['image']='images/weather/snowy.gif';
+$weather['snowy']['text']='雪';
